@@ -1,16 +1,5 @@
-# flutter1_firebase
+Flutter Firebase
 
-A new Flutter project.
+![image](https://github.com/bahromnematov/flutter1_firebase/assets/89692061/eb6a51d9-327f-49d6-8fc8-d44af820ab03)
+![image](https://github.com/bahromnematov/flutter1_firebase/assets/89692061/5408a713-808d-46db-a44f-a08f06e5fd5c)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
